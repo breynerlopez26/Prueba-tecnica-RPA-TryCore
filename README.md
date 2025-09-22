@@ -15,7 +15,7 @@ Se diseñó como apoyo a un flujo en Automation Anywhere, donde el bot consulta 
   Lista todas las empresas registradas.
   ejemplo ` empresas/estado/Procesado` 
 
- `GET /export`
+- `GET /export`
 
   Genera y descarga un archivo Excel (.xlsx) con todas las empresas y su estado.
 
