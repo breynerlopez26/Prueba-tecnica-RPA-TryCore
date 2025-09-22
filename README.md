@@ -55,3 +55,4 @@ Se diseñó como apoyo a un flujo en Automation Anywhere, donde el bot consulta 
 
 ## Url del Sheet
   https://docs.google.com/spreadsheets/d/1hoXhp_kO_RBM1C61R12ety2LDLcesl04E26mnbz74Oo/edit?usp=sharing  
+## Al desarrollarse en la versión Community de Automation Anywhere, se debe tener instalada la versión de Bot Assistant, la cual sirve para ejecutar el código JSON en la máquina local.
