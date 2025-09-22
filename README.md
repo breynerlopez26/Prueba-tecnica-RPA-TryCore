@@ -43,7 +43,7 @@ Se diseñó como apoyo a un flujo en Automation Anywhere, donde el bot consulta 
 
 ## Tecnologías usadas
 
-  Python 3.11
+  Python 3.13
 
   Flask (framework API REST)
 
